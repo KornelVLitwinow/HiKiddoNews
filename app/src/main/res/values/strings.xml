@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HiKiddoNews</string>
+    <string name="counter_characters">Number of characters:%s</string>
+    <string name="add_news">add news</string>
+    <string name="edit_news">edit news</string>
+    <string name="hint_url_image">Image url</string>
+    <string name="hint_description">Description</string>
+    <string name="hint_header">Title</string>
+    <string name="save_changes">Save changes</string>
+    <string name="content_description_image_news">image news</string>
+    <string name="error_empty_field">The field cannot be empty</string>
+    <string name="error_image_url">Image url is invalid</string>
+</resources>
